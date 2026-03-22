@@ -1,6 +1,10 @@
-# API Contato - Spring Boot
+# 👾 API Contato - Spring Boot
 
-Projeto desenvolvido para a disciplina de Back-End Frameworks.
+![Java](https://img.shields.io/badge/Java-17-orange)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-3.x-green)
+![Status](https://img.shields.io/badge/status-concluído-brightgreen)
+
+Projeto desenvolvido para a disciplina de Back-End.
 
 ## 🚀 Endpoints
 
